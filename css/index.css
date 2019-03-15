@@ -1,0 +1,14 @@
+.topRightNav {
+	width: 100%;
+	background: red;
+	height: 20px;
+}
+.topRightNav ul {
+	display: flex;
+}	
+.topRightNav ul li{
+	list-style: none;
+}
+.topRightNav ul li a{
+	text-decoration: none;
+}
